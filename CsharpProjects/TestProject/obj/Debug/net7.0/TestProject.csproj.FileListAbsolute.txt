@@ -1,0 +1,14 @@
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
