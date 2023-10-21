@@ -177,3 +177,32 @@ foreach (int items in inventory)
     Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
 }
 Console.WriteLine($"We have {sum} items in inventory");
+
+
+
+
+
+// Exercise - Complete a challenge activity for nested iteration and selection statements
+// Fraudulent order challenge
+// Earlier in this module, you set out to write code that would store Order IDs belonging to potentially fraudulent orders. Your goal is to find fraudulent orders as early as possible and flag them for deeper analysis.
+
+// Code challenge - Report the Order IDs that need further investigation
+// Your team has found a pattern. Orders that start with the letter "B" encounter fraud at a rate 25 times greater than the normal rate. You write new code that outputs the Order ID of new orders where the Order ID starts with the letter "B". This will be used by the fraud team to investigate further.
+string[] investigateOrders = {
+    "B123",
+    "C234",
+    "A345",
+    "C15",
+    "B177",
+    "G3003",
+    "C235",
+    "B179",
+};
+
+foreach (string order in investigateOrders)
+{
+    if (order.StartsWith("B"))
+    {
+        Console.WriteLine($"Investigate order {order}");
+    }
+}
