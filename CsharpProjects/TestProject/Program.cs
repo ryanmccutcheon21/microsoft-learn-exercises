@@ -136,3 +136,31 @@ if (discountPercentage > 0)
 {
     Console.WriteLine($"Renew now and save {discountPercentage}%.");
 }
+
+
+
+
+
+
+// Exercise - Get started with array basics
+string[] fraudulentOrderIDs = new string[3];
+
+// Add values to the array
+fraudulentOrderIDs[0] = "A123";
+fraudulentOrderIDs[1] = "B456";
+fraudulentOrderIDs[2] = "C789";
+
+// retrieve values
+Console.WriteLine($"First: {fraudulentOrderIDs[0]}");
+Console.WriteLine($"Second: {fraudulentOrderIDs[1]}");
+Console.WriteLine($"Third: {fraudulentOrderIDs[2]}");
+
+// reassign the value of an array
+fraudulentOrderIDs[0] = "F000";
+Console.WriteLine($"Reassign First: {fraudulentOrderIDs[0]}");
+
+// initialize an array
+string[] newFraudulentOrderIDs = { "A123", "B456", "C789" };
+
+// use the length property of an array
+Console.WriteLine($"There are {newFraudulentOrderIDs.Length} fraudulent orders to process.");
