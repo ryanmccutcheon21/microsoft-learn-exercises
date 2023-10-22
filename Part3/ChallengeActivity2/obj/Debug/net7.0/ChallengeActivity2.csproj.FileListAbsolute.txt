@@ -1,0 +1,14 @@
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/bin/Debug/net7.0/ChallengeActivity2
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/bin/Debug/net7.0/ChallengeActivity2.deps.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/bin/Debug/net7.0/ChallengeActivity2.runtimeconfig.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/bin/Debug/net7.0/ChallengeActivity2.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/bin/Debug/net7.0/ChallengeActivity2.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/obj/Debug/net7.0/ChallengeActivity2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/obj/Debug/net7.0/ChallengeActivity2.AssemblyInfoInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/obj/Debug/net7.0/ChallengeActivity2.AssemblyInfo.cs
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/obj/Debug/net7.0/ChallengeActivity2.csproj.CoreCompileInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/obj/Debug/net7.0/ChallengeActivity2.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/obj/Debug/net7.0/refint/ChallengeActivity2.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/obj/Debug/net7.0/ChallengeActivity2.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/obj/Debug/net7.0/ChallengeActivity2.genruntimeconfig.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part3/ChallengeActivity2/obj/Debug/net7.0/ref/ChallengeActivity2.dll
