@@ -1,0 +1,14 @@
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.deps.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/refint/Starter.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/ref/Starter.dll
