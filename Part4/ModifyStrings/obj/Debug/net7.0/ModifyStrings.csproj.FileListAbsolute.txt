@@ -1,0 +1,14 @@
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/bin/Debug/net7.0/ModifyStrings
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/bin/Debug/net7.0/ModifyStrings.deps.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/bin/Debug/net7.0/ModifyStrings.runtimeconfig.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/bin/Debug/net7.0/ModifyStrings.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/bin/Debug/net7.0/ModifyStrings.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/obj/Debug/net7.0/ModifyStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/obj/Debug/net7.0/ModifyStrings.AssemblyInfoInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/obj/Debug/net7.0/ModifyStrings.AssemblyInfo.cs
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/obj/Debug/net7.0/ModifyStrings.csproj.CoreCompileInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/obj/Debug/net7.0/ModifyStrings.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/obj/Debug/net7.0/refint/ModifyStrings.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/obj/Debug/net7.0/ModifyStrings.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/obj/Debug/net7.0/ModifyStrings.genruntimeconfig.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part4/ModifyStrings/obj/Debug/net7.0/ref/ModifyStrings.dll
