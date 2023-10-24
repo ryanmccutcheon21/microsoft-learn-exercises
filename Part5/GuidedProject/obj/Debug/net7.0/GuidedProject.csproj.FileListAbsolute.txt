@@ -1,0 +1,14 @@
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/bin/Debug/net7.0/GuidedProject
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/bin/Debug/net7.0/GuidedProject.deps.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/bin/Debug/net7.0/GuidedProject.runtimeconfig.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/bin/Debug/net7.0/GuidedProject.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/bin/Debug/net7.0/GuidedProject.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/obj/Debug/net7.0/GuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/obj/Debug/net7.0/GuidedProject.AssemblyInfoInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/obj/Debug/net7.0/GuidedProject.AssemblyInfo.cs
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/obj/Debug/net7.0/GuidedProject.csproj.CoreCompileInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/obj/Debug/net7.0/GuidedProject.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/obj/Debug/net7.0/refint/GuidedProject.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/obj/Debug/net7.0/GuidedProject.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/obj/Debug/net7.0/GuidedProject.genruntimeconfig.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/GuidedProject/obj/Debug/net7.0/ref/GuidedProject.dll
