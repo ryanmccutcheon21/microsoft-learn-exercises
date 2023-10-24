@@ -23,11 +23,6 @@ string[] pettingZoo =
     "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
 };
 
-// RandomizeAnimals();
-
-// string[,] group = AssignGroup();
-
-// PrintGroup(group);
 
 PlanSchoolVisit("School A");
 PlanSchoolVisit("School B", 3);
