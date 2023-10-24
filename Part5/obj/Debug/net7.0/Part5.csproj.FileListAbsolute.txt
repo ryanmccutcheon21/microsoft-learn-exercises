@@ -1,0 +1,14 @@
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/obj/Debug/net7.0/Part5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/obj/Debug/net7.0/Part5.AssemblyInfoInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/obj/Debug/net7.0/Part5.AssemblyInfo.cs
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/obj/Debug/net7.0/Part5.csproj.CoreCompileInputs.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/bin/Debug/net7.0/Part5
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/bin/Debug/net7.0/Part5.deps.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/bin/Debug/net7.0/Part5.runtimeconfig.json
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/bin/Debug/net7.0/Part5.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/bin/Debug/net7.0/Part5.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/obj/Debug/net7.0/Part5.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/obj/Debug/net7.0/refint/Part5.dll
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/obj/Debug/net7.0/Part5.pdb
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/obj/Debug/net7.0/Part5.genruntimeconfig.cache
+/Users/ryanmccutcheon/WebDevLearning/microsoft-learn/Part5/obj/Debug/net7.0/ref/Part5.dll
